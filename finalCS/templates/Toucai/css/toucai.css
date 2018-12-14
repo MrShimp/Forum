@@ -1,0 +1,19 @@
+.UserImage{
+  height: 80px;
+  float: left;
+  margin-left: 50px;
+}
+
+.coinImage{
+  width : 30px;
+  height: 30px;
+  margin-left: 10px;
+}
+
+.progress{
+  margin-top: 10px;
+}
+
+.gameLayer{
+  margin-left: 200px;
+}

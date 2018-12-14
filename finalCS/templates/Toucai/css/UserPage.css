@@ -1,0 +1,40 @@
+.boxleft{
+  border-right: 2px solid #F0F2F6;
+  width: 60px;
+  height: 100%;
+}
+
+.notActive{
+  height: 30px;
+  width: 30px;
+  margin-top: 50px;
+}
+
+.icon1{
+  width: 30px;
+  height: 30px;
+}
+.icon{
+  width: 30px;
+  height: 30px;
+  border-radius: 30px;
+}
+
+.userheadimg{
+  height: 200px;
+  width: 200px;
+  border-radius: 200px;
+}
+
+.box4{
+  background-color: #F4F7FC;
+
+}
+.box5{
+  overflow:scroll;
+}
+.button-link{
+  margin-top: 30px;
+  background-color: white;
+  width: 100px;
+}

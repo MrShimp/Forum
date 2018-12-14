@@ -1,0 +1,74 @@
+html,body{
+  height: 100%;
+}
+.mybody{
+  background-image: url("../img/index_img/philip-swinburn-60220-unsplash.jpg");
+  background-size: 100%;
+  _height:600px;
+  min-height:600px;
+}
+
+
+.mybtn{
+  background: transparent;
+  border: none; /* Remove borders */
+  color: white; /* White text */
+
+  font-size: 16px; /* Set a font size */
+  cursor: pointer; /* Mouse pointer on hover */
+}
+.mybtn:hover {
+    background-color: lightGray;
+}
+.box1{
+  border-bottom: solid 1px #515151;
+  background:rgba(255,255,255,0.3);
+}
+
+.box2{
+  background:rgba(255,255,255,0.3);
+}
+
+.icon1{
+  width: 30px;
+  height: 30px;
+}
+.icon{
+  width: 30px;
+  height: 30px;
+  border-radius: 30px;
+}
+
+.userheadimg{
+  height: 200px;
+  width: 200px;
+  border-radius: 200px;
+}
+
+.box4{
+  margin-top:100px;
+  background-color: #fae6d1;
+  border-radius:5px;
+  height: 400px;
+}
+.button-link{
+  margin-top: 30px;
+  background-color: white;
+  width: 100px;
+}
+
+.itemimg{
+  margin-top:100px;
+  height: 400px;
+  width: 500px;
+  border-radius: 5px;
+}
+.myinput{
+  margin-left: 50px;
+  margin-right: 50px;
+  border-radius: 10px;
+}
+.bt1{
+  width:100px;
+  margin-left: 400px;
+}

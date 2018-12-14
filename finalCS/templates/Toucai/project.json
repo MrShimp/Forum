@@ -1,0 +1,14 @@
+{
+    "debugMode"     : 1,
+    "frameRate"     : 60,
+    "id"            : "gameCanvas",
+    "renderMode"    : 1,
+    "jsList"        : [
+      "src/StartScene.js",
+      "src/resource.js",
+      "src/DogSprite.js",
+      "src/MenuItemPop.js",
+      "src/OptionPopUp.js",
+      "src/eventlistener.js"
+    ]
+}
