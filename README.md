@@ -22,3 +22,8 @@ And edit in the finalCS/testclass.py to use the hot code swapping
 
 
 ## The game is half-made and I will upgrade it as the other project
+
+##update 1.1 nothing updated
+
+
+
